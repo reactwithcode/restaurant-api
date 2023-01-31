@@ -1,0 +1,15 @@
+// In REST API, there are several operations, it's called CRUD
+
+// 1a install dependencies and 1b config the package.json file
+// npm install --save express mongoose body-parser
+// npm install --save-dev nodemon eslint babel-cli babel-core babel-eslint babel-preset-es2015 babel-preset
+
+// 1c make .babelrc file and config for babel to do and config scripts obj on package.json
+
+
+{
+  "presets": [
+    "es2015",
+    "stage-0"
+  ]
+}
